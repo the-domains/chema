@@ -1,0 +1,28 @@
+name: Chema
+favicon: null
+layout_spectrum: 0.9541434228885919
+typography_spectrum: 0.17412706976756454
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6108080593403429
+  lightness: 0.6649330721702427
+  saturation: 0.896516504464671
+  rhythmicContrast: 0.34644027263857424
+purpose: []
